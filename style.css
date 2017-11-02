@@ -1,0 +1,29 @@
+h1{
+ text-align: center;
+  color: teal;
+}
+
+body{
+  text-align: center;  
+  background-color: lightgrey;
+  padding: 50px;
+    border: 1px solid black;
+   margin-top :30px;
+  margin-bottom:20px;
+
+}
+p{
+  text0align: center;
+}
+
+img{
+  border: 4px dotted rgb(20,200,200);
+}
+
+#about{
+  font-weight: bold;
+}
+
+#artwork > img{
+  background-color: lightgreen;
+}
